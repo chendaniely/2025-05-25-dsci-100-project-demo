@@ -2,3 +2,5 @@
 Template project repository for DSCI-100
 
 `git add`, `git commit`, and `git push` are commands we will practice.
+
+Hello DSCI 100 section 3?
